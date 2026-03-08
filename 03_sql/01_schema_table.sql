@@ -1,0 +1,41 @@
+CREATE SCHEMA IF NOT EXISTS hr;
+
+DROP TABLE IF EXISTS hr.employee_attrition;
+
+CREATE TABLE hr.employee_attrition (
+  "Age" INT,
+  "Attrition" TEXT,
+  "BusinessTravel" TEXT,
+  "DailyRate" INT,
+  "Department" TEXT,
+  "DistanceFromHome" INT,
+  "Education" INT,
+  "EducationField" TEXT,
+  "EmployeeCount" INT,
+  "EmployeeNumber" INT,
+  "EnvironmentSatisfaction" INT,
+  "Gender" TEXT,
+  "HourlyRate" INT,
+  "JobInvolvement" INT,
+  "JobLevel" INT,
+  "JobRole" TEXT,
+  "JobSatisfaction" INT,
+  "MaritalStatus" TEXT,
+  "MonthlyIncome" INT,
+  "MonthlyRate" INT,
+  "NumCompaniesWorked" INT,
+  "Over18" TEXT,
+  "OverTime" TEXT,
+  "PercentSalaryHike" INT,
+  "PerformanceRating" INT,
+  "RelationshipSatisfaction" INT,
+  "StandardHours" INT,
+  "StockOptionLevel" INT,
+  "TotalWorkingYears" INT,
+  "TrainingTimesLastYear" INT,
+  "WorkLifeBalance" INT,
+  "YearsAtCompany" INT,
+  "YearsInCurrentRole" INT,
+  "YearsSinceLastPromotion" INT,
+  "YearsWithCurrManager" INT
+);
