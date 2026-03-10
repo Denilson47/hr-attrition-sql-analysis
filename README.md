@@ -64,6 +64,12 @@ Based on the findings, the organization should consider:
 - improving employee engagement and satisfaction
 - paying special attention to high turnover roles like Sales Representatives
 
+## Power BI Dashboard
+
+The analysis results were visualized using an interactive Power BI dashboard showing key attrition drivers across departments, job roles, overtime status, and tenure groups.
+
+![HR Attrition Dashboard](04_outputs/screenshots/dashboard_overview.png)
+
 ## Author
 
 Pius Denilson Goodluck  
