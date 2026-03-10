@@ -68,7 +68,7 @@ Based on the findings, the organization should consider:
 
 The analysis results were visualized using an interactive Power BI dashboard showing key attrition drivers across departments, job roles, overtime status, and tenure groups.
 
-![HR Attrition Dashboard](04_outputs/screenshots/dashboard_overview.png)
+![HR Attrition Dashboard](04_outputs/Screenshots/dashboard_overview.png)
 
 ## Author
 
